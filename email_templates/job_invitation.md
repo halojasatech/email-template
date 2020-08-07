@@ -6,7 +6,7 @@ We would like to invite you to our first selection process, Technical Test. As a
 
 [CALENDLY LINK]
 
-Please to be noted that we are available every Monday - Thursday at 01.30pm - 05.00pm, so you can create your schedule between that time. The Technical Test fil takes 60 - 120 minutes and the test cases is related with your applied possition. Please be prepared.
+Please to be noted that we are available every Monday - Thursday at 01.30pm - 05.00pm, so you can create your schedule between that time. The Technical Test wil takes 60 - 120 minutes and the test cases is related with your applied possition. Please be prepared.
 
 You also need to fill this form [ADITIONAL FORM LINK]. Please make sure if you already fill that form before you create a schedule.
 
